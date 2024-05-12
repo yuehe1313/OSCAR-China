@@ -1,0 +1,9 @@
+#====================
+
+input_data/**/*
+results/**/*
+!input_data/**/.gitkeep
+!results/**/.gitkeep
+
+#====================
+
