@@ -1,7 +1,7 @@
 # OSCAR-China 
 
 ## Overview
-The **OSCAR-China model** is a specialized regional adaptation of the global **OSCAR v3.2 model**, developed specifically for application within China. This version operates with a spatial resolution of **0.5°×0.5°** and is tailored to assess the impacts of land use and land-cover changes (LULCC) on the carbon cycle. Designed as an "offline" model, it focuses solely on the land carbon cycle without coupling to other components of the Earth system. The model incorporates historical LULCC from 1900 to 2018 and scenario projections from 2019 to 2100, reflecting China’s national forestation policies. For access to the core OSCAR v3.2 code, visit [OSCAR v3.2 on GitHub](https://github.com/tgasser/OSCAR).
+**OSCAR-China** is a specialized regional adaptation of the global **OSCAR v3.2 model**, developed specifically for application within China. This version operates with a spatial resolution of **0.5°×0.5°** and is tailored to assess the impacts of land use and land-cover changes (LULCC) on the carbon cycle. Designed as an "offline" model, it focuses solely on the land carbon cycle without coupling to other components of the Earth system. The model incorporates historical LULCC from 1900 to 2018 and scenario projections from 2019 to 2100, reflecting China’s national forestation policies. For access to the core OSCAR v3.2 code, visit [OSCAR v3.2 on GitHub](https://github.com/tgasser/OSCAR).
 
 ## Data Dimensions
 OSCAR-China utilizes several key dimensions for organizing its input and output data:
