@@ -5,5 +5,8 @@ results/**/*
 !input_data/**/.gitkeep
 !results/**/.gitkeep
 
+__pycache__/
+*.py[cod]
+*$py.class
 #====================
 
