@@ -22,4 +22,4 @@ The model requires specific forcing data to run:
 - **d_Hwood**: Biomass harvested from woody biomes (in Pg C yr-1).
 
 ## Data Files and Accessibility
-The OSCAR-China model’s GitHub repository exclusively contains the model scripts. All input and output data are hosted in netCDF (*.nc) format on [Zenodo](**https://doi.org/10.5281/zenodo.11182160**). These output data files represent constrained means and standard deviations from 1,000 configurations, refined using empirical constraints with observation-based forest vegetation carbon stock data from the 9th National Forest Inventory and net land carbon sink data from the RECCAP2 initiative for China.
+The OSCAR-China model’s GitHub repository exclusively contains the model scripts. All input and output data are hosted in netCDF (*.nc) format on [Zenodo](https://doi.org/10.5281/zenodo.11182160). These output data files represent constrained means and standard deviations from 1,000 configurations, refined using empirical constraints with observation-based forest vegetation carbon stock data from the 9th National Forest Inventory and net land carbon sink data from the RECCAP2 initiative for China.
